@@ -1,0 +1,19 @@
+# Overview
+
+Hello World! This is my repository for my personal coding projects. I created this repository to gain more experience with Visual Studio Code and Git. I intend to make projects using C++, Java, and C# in this repository. My goal in using these languages will be to help me find languages that I enjoy working in and will want to use in my career.
+
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+* Visual Studio Code
+* Python 3.9.1
+* Git / GitHub
+
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [Version Contorl in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
+* [GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
