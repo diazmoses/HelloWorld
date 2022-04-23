@@ -14,6 +14,5 @@ A look into the process [Software Demo Video](http://youtube.link.goes.here)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Version Contorl in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
